@@ -9,5 +9,4 @@ Lets people research and book travel options for their trips, including flights,
 •	GIT
 
 # final look :
-  ![](http://i.giphy.com/xT77YdviLqtjaecRYA.gif)
-
+  ![](http://i.giphy.com/3o6UBoPSLlIKQ2dv7q.gif)
