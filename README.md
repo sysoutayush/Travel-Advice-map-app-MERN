@@ -8,5 +8,4 @@ Lets people research and book travel options for their trips, including flights,
 •	Mongo DB
 •	GIT
 
-# final look :
-  ![](http://i.giphy.com/3o6UBoPSLlIKQ2dv7q.gif)
+
